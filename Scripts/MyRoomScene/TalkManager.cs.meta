@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: 84712f8e056efc1429ca3269bf76c00c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - eventSystem: {instanceID: 0}
+  - TalkUIGroup: {instanceID: 0}
+  - Character1Group: {instanceID: 0}
+  - Charcter1Animator: {instanceID: 0}
+  - Character1Skin: {instanceID: 0}
+  - Character1Cloth: {instanceID: 0}
+  - Character1Face: {instanceID: 0}
+  - Character1Hair: {instanceID: 0}
+  - Character1Effect: {instanceID: 0}
+  - Character2Group: {instanceID: 0}
+  - Charcter2Animator: {instanceID: 0}
+  - Character2Skin: {instanceID: 0}
+  - Character2Cloth: {instanceID: 0}
+  - Character2Face: {instanceID: 0}
+  - Character2Hair: {instanceID: 0}
+  - Character2Effect: {instanceID: 0}
+  - TalkPanelName: {instanceID: 0}
+  - TalkPanelText: {instanceID: 0}
+  - TalkPanelArrow: {instanceID: 0}
+  - SelectButton1: {instanceID: 0}
+  - SelectButton2: {instanceID: 0}
+  - SelectButton3: {instanceID: 0}
+  - SelectButton4: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - talkSound: {fileID: 8300000, guid: ab84ff58331316f4897a67107d8f7981, type: 3}
+  executionOrder: 1600
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
